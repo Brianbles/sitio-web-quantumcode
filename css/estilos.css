@@ -1,0 +1,34 @@
+body {
+    background-color: #f3f0ff !important;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+}
+
+.brand-text {
+    font-size: 2.5rem;
+    color: #9b59b6 !important;
+    margin-left: 10px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+.navbar-custom {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #e6e6fa !important;
+}
+
+.card-header {
+    background-color: #dcd0ff !important;
+    font-weight: bold;
+    color: #4b0082;
+}
